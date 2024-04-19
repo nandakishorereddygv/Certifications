@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .certification {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Align items horizontally in center */
+  }
+  
+  .certification img {
+    max-width: 500px;
+    margin-right: 20px;
+    align-self: center;
+  }
+  
+  .certification-details {
+    flex: 1;
+  }
+  
+  h2 {
+    color: #007bff;
+  }
+  
+  p {
+    color: #555;
+  }
+  
